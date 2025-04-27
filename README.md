@@ -4,6 +4,10 @@
 A simple React app to manage a travel packing list. Add items with quantity, mark them as packed, delete them, or clear the list completely. Track your packing progress with real-time stats.
 
 ---
+## 🔍 Preview
+- Live - https://dipan46.github.io/far-away-app/
+
+---
 
 ## ⚙️ Features
 
